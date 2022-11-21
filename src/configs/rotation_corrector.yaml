@@ -1,0 +1,7 @@
+visualize: True
+model_name: "tf_efficientnet_b0_ns"
+weight_path: "weights/rotation_corrector/tf_efficientnet_b0_ns_best.pt"
+cls_thresh: 0.45
+rot_out_img_dir: "rotation_corrector/imgs"
+rot_out_visualize_dir: "rotation_corrector/visualize_imgs"
+rot_out_txt_dir: "rotation_corrector/txt"

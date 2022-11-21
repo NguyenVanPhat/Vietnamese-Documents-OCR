@@ -1,0 +1,7 @@
+weight_path: "weights/text_recognizer/viet_text_recognition.pth"
+visualize: True
+reg_out_visualize_dir: "text_recognizer/visualize_imgs"
+reg_out_txt_dir: "text_recognizer/txt"
+reg_ocr_thresh: 0.65
+reg_base_config_path: "text_recognizer/vietocr_github/config/base.yml"
+reg_config_path: "text_recognizer/vietocr_github/config/vgg-seq2seq.yml"

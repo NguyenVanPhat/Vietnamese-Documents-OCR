@@ -1,0 +1,6 @@
+visualize: True
+weight_path: "weights/key_information_extractor/pick_best.pth"
+kie_out_txt_dir: "key_information_extractor/txt"
+kie_out_visualize_dir: "key_information_extractor/visualize_imgs"
+kie_out_boxes_and_transcripts_dir: "key_information_extractor/boxes_and_transcripts"
+

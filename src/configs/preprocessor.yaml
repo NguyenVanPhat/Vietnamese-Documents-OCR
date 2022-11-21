@@ -1,0 +1,2 @@
+preprocess_out_img_dir: "preprocessor/imgs"
+preprocess_out_txt_dir: "preprocessor/txt"

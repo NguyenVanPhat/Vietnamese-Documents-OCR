@@ -1,0 +1,6 @@
+weight_dir: "weights/text_detector/ch_ppocr_server_v2.0_det_infer"
+visualize: True
+det_db_thresh: 0.3
+det_db_box_thresh: 0.3
+det_out_visualize_dir: "text_detector/visualize_imgs"
+det_out_txt_dir: "text_detector/txt"
